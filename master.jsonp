@@ -1,4 +1,4 @@
-{
+window["STRd6/emojer:master"]({
   "source": {
     "LICENSE": {
       "path": "LICENSE",
@@ -294,4 +294,4 @@
   "progenitor": {
     "url": "http://strd6.github.io/editor/"
   }
-}
+});
